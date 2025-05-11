@@ -7,6 +7,7 @@ Here the app displays two monuments which are Hampi and Gol Gumbaz on top of the
 The steps are as follows:
 
 1. Create Image Target
+   
 Image targets in augmented reality (AR) refer to real-world images or pictures that act as triggers for displaying virtual content or augmentations. When an AR camera detects an image target, it recognizes the image and overlays digital content onto it, creating an interactive and immersive experience for the user.This is done with the help of vuforia engine. Vuforia is an augmented reality (AR) platform that provides tools and technologies for creating AR experiences. One of the key components of Vuforia is the Target Manager, which is a web-based portal that allows you to create and manage image targets for your AR applications. Thr Karnataka map is used as the image target.
 ![image](https://github.com/user-attachments/assets/1101a480-e70c-473c-8562-6281067395b1)
 
@@ -37,9 +38,12 @@ Next the text is also added which shows the description of the monument while th
 ![image](https://github.com/user-attachments/assets/7a6c9284-bb13-4eae-887b-fbcbd06d4c43)
 
 
-Finally the project is simulated then built into an .apk file which can be installed on mobile devices.
+Finally the project is simulated then built into .apk file which can be installed on mobile devices.
 
-![image](https://github.com/user-attachments/assets/2ae51bfe-413c-475d-895f-52d3a07bca48)
+![image](https://github.com/user-attachments/assets/bbffaa4e-3017-48d3-8f5b-00482561b33f)
+
+
+
 
 
 
