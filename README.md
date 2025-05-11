@@ -1,5 +1,5 @@
 # -VIRTUAL-TOUR-OF-KARNATAKA-USING-AUGMENTED-REALITY
-This project presents a virtual tour experience of the Indian state of Karnataka using an augmented reality (AR) camera. Karnataka is renowned for its rich cultural heritage, historical monuments, picturesque landscapes, and diverse wildlife. The aim of this virtual tour is to provide users with an immersive and interactive experience, allowing them to explore Karnataka's prominent landmarks and natural beauty from the comfort of their own homes.
+This project presents a virtual tour experience of the Indian state of Karnataka using an augmented reality (AR) camera. Karnataka is renowned for its rich cultural heritage, historical monuments, picturesque landscapes, and diverse wildlife. This virtual tour aims to provide users with an immersive and interactive experience, allowing them to explore Karnataka's prominent landmarks and natural beauty from the comfort of their own homes.
 
 The virtual tour also includes interactive features, allowing users to engage with the environment. Users can manipulate the AR camera to change viewpoints, zoom in on specific elements, and interact with virtual objects, enhancing their exploration experience. Moreover, social sharing functionalities enable users to capture and share their virtual tour experiences with others, fostering a sense of community and encouraging further exploration of Karnataka. 
 
@@ -18,10 +18,15 @@ In order to show the monuments, respective assests are used. These assets were t
 3. C# Script
    
 C# is used for the function of the buttons. This is a better option to customize our idea than using available options. Here it is used for the button response to the wikipedia page.
+
+
 ![image](https://github.com/user-attachments/assets/80fca874-decb-4a3a-b761-9fb5285e920b)
+
+
 This is the code used.
 
-4.Building application
+
+4. Building application
 
 Now we have to add the components in the scene to make them work together. Unity editor is used to add components, buttons, code and building into app. First the assests are placed on top of the image target and all of these are placed above of the canvas as shown in the image.
 
